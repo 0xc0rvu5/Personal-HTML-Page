@@ -1,5 +1,6 @@
 body {
   background-color: #9ad0ec;
+  text-align: center;
 }
 
 hr {
@@ -9,8 +10,22 @@ hr {
   border-width: 10px;
   width: 20%;
 }
+
 img {
   height: 200px;
+}
+
+ul {
+  list-style: none; /* Remove default bullets */
+}
+
+a {
+  text-align: center;
+  margin-right: 45px;
+}
+
+p {
+  margin: 10px;
 }
 
 .center {
