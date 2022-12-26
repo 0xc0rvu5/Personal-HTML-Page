@@ -2,6 +2,6 @@
 
 ## Example at
 
-- [[https://brandonwalshdev.web.app/]]
+- https://brandonwalshdev.web.app/
 
   ![](Example.gif)
