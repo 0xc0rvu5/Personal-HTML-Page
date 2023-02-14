@@ -1,7 +1,7 @@
-# Day-41-42 of 100 days of Python
+# Personal HTML Page
 
 ## Example at
 
 - https://brandonwalshdev.web.app/
 
-  ![](Example.gif)
+![](Example.gif)
